@@ -27,8 +27,8 @@
     <td><strong>Backend</strong></td>
     <td>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -46,6 +46,12 @@
     </td>
   </tr>
 </table>
+
+---
+
+<h3>🏆 GitHub Trophy</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hae8064&theme=onedark&column=7&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
